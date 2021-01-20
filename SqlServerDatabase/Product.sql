@@ -3,6 +3,5 @@
 	[Id] INT NOT NULL PRIMARY KEY, 
     [Name] VARCHAR(50) NULL, 
     [Cost] INT NULL, 
-    [Sal] INT NULL, 
-    [location] NVARCHAR(50) NULL
+    [Sal] INT NULL
 )
